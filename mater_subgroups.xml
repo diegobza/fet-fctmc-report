@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="1º Período Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="19:00">
+      <Teacher name="Professor 2"></Teacher><Subject name="Disciplina 2"></Subject>
+    </Hour>
+    <Hour name="20:45">
+      <Teacher name="Professor 1"></Teacher><Subject name="Disciplina 1"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="19:00">
+      <Teacher name="Professor 3"></Teacher><Subject name="Disciplina 5"></Subject>
+    </Hour>
+    <Hour name="20:45">
+      <Teacher name="Professor 2"></Teacher><Subject name="Disciplina 2"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2º Período Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="19:00">
+      <Teacher name="Professor 3"></Teacher><Subject name="Disciplina 3"></Subject>
+    </Hour>
+    <Hour name="20:45">
+      <Teacher name="Professor 4"></Teacher><Subject name="Disciplina 4"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="19:00">
+      <Teacher name="Professor 4"></Teacher><Subject name="Disciplina 4"></Subject>
+    </Hour>
+    <Hour name="20:45">
+      <Teacher name="Professor 3"></Teacher><Subject name="Disciplina 3"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
